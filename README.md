@@ -32,6 +32,6 @@ A simple and interactive stopwatch web application built using HTML, CSS, and Ja
 
 > Below are some screenshots of the Stopwatch Application:
 
-![Stopwatch Screenshot 1](src/assets/screenshot1.png)
-![Stopwatch Screenshot 2](src/assets/screenshot2.png)
+![Stopwatch Screenshot 1](src/assets/1.png)
+![Stopwatch Screenshot 2](src/assets/2.png)
 
